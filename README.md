@@ -1,26 +1,64 @@
-🌟 Hey there! I'm Manav 
-💥 About Me
-javascriptCopyconst me = {
-  🚀 status: "Coding like a boss",
-  💡 interests: ["AI", "Problem Solving", "Creating Cool Stuff"],
-  🧠 currentMission: "Turning caffeine into code",
-  💪 superpower: "Breaking things and fixing them spectacularly"
-}
-🔥 Tech Arsenal
-Show Image
-Show Image
-Show Image
-Show Image
-📈 My GitHub Vibe
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&show_icons=true&include_all_commits=true" width="48%" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%">
-🏆 Epic Achievements
+# Hi there, I'm **Manav**! 👋
 
-🚀 Built [X] mind-blowing projects
-💡 Solved [Y] challenging coding puzzles
-🌐 Contributing to open source like a legend
+---
 
-📬 Connect & Collab
-Show Image
-Show Image
-Remember: Code is poetry in motion 💻✨
+### 👨‍💻 About Me
+
+I'm a passionate **AI and Machine Learning Engineer**, constantly exploring the intersection of technology and innovation. I love turning complex problems into elegant solutions and sharing my journey along the way. Here's a little more about me:
+
+- 🌱 Currently enhancing my skills in **deep learning** and **MLOps**.
+- 🛠️ Building intelligent systems that make a difference.
+- 🧠 Interested in the latest developments in **AI ethics** and **GEN AI **.
+- 🎯 Fun fact: I started coding by creating simple automations for games!
+
+---
+
+### 💼 Technical Skills
+
+#### **Languages & Frameworks**
+- **Python** 🐍  
+- **TensorFlow & PyTorch** 🔥
+- **SQL & NoSQL Databases** 📊
+- **MLOPS** 🌐
+- **Scikit-Learn, Pandas, NumPy** 📈
+
+#### **Tools & Platforms**
+- **Docker, Kubernetes** 🐳
+- **Git & GitHub Actions** 🛠️
+- **AWS, GCP** ☁️
+- **VS Code, colab notebook** 📓
+
+#### **Soft Skills**
+- Problem-solving
+- Team collaboration
+- Effective communication
+
+---
+
+### 📊 GitHub Stats
+
+![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=maybemnv&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maybemnv&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/maybmnv)
+- 💬 Discord: @maybemnv
+- 📸 Instagram: @maybemnv
+- 📧 Email: manavkauahal99@gmail.com
+
+Feel free to reach out for collaborations, discussions, or just a casual chat about AI and tech!
+
+---
+
+### 🎨 Fun Corner
+
+```python
+# Here's a Python snippet just for fun:
+import this
+```
+
+"The Zen of Python" is always an inspiration!
