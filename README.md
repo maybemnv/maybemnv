@@ -16,7 +16,7 @@ I'm a passionate **AI and Machine Learning Engineer**, constantly exploring the 
 ### 💼 Technical Skills
 
 #### **Languages & Frameworks**
-- **Python** 🐍
+- **Python,C,C++,Java** 🐍
 - **TensorFlow & PyTorch** 🔥
 - **SQL & NoSQL Databases** 📊
 - **JavaScript** 🌐
