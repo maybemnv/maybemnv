@@ -1,4 +1,4 @@
-<h1 align="left">Hey :3 ,I' Manav 😼</h1>
+<h1 align="left">Hey there ,I' Manav :3</h1>
 
 ###
 
@@ -27,33 +27,42 @@
 
 <p align="left">I'm an engineering student diving deep into Data Science  but my brain’s wired for AI/ML, building tools, and chasing wild ideas.<br><br>Whether I’m prototyping a GenAI tool, tweaking a model just to see what breaks, or writing code that *feels right*, I’m in my zone when I’m creating.<br><br>Most of what I know didn’t come from lectures — it came from:<br>- 💻 late-night builds  <br>- ⚔️ hackathons  <br>- 🔥 self-taught chaos  <br>- 🧠 endless curiosity<br>I don’t wait for perfect.  <br>Other than Coding You would mind me watching Motorsport racing or bumping MUSIC</p>
 
-###
 
-<h2 align="left">Tech Stack</h2>
+## 🛠️ Skills
 
-###
+### 👨‍💻 Programming Languages
+- Python
+- C
+- Java
+- JavaScript
+- SQL
+- Bash
+- HTML/CSS
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-</div>
+### ⚙️ Frameworks & Libraries
+- FastAPI
+- Flask
+- Streamlit
+- TensorFlow
+- PyTorch
+- NLTK
+- SQLAlchemy
+- Docker
+- Git
 
-###
+### 🛢️ Databases
+- MySQL
+- MongoDB
+- PostgreSQL
+- Firebase
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-</div>
+### 🧰 Tools & Platforms
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Postman
+- Power BI
+- GitHub
 
 ###
 
