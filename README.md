@@ -1,4 +1,4 @@
-<h1 align="left">Hey there ,I' Manav :3</h1>
+<h1 align="left">Hey there I'm Manav :3</h1>
 
 ###
 
