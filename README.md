@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm an engineering student diving deep into Data Science  but my brain’s wired for AI/ML, building tools, and chasing wild ideas.<br><br>Whether I’m prototyping a GenAI tool, tweaking a model just to see what breaks, or writing code that *feels right*, I’m in my zone when I’m creating.<br><br>Most of what I know didn’t come from lectures — it came from:<br>- 💻 late-night builds  <br>- ⚔️ hackathons  <br>- 🔥 self-taught chaos  <br>- 🧠 endless curiosity<br>I don’t wait for perfect.  <br>Other than Coding You would mind me watching Motorsport racing or bumping MUSIC</p>
+<p align="left">I'm an engineering student diving deep into Data Science  but my brain’s wired for AI/ML, building tools, and chasing wild ideas.<br><br>Whether I’m prototyping a GenAI tool, tweaking a model just to see what breaks, or writing code that *feels right*, I’m in my zone when I’m creating.<br><br>Most of what I know didn’t come from lectures — it came from:<br>- 💻 late-night builds  <br>- ⚔️ hackathons  <br>- 🔥 self-taught chaos  <br>- 🧠 endless curiosity<br>I don’t wait for perfect.  <br>Other than Coding You would find me watching Motorsport racing or bumping MUSIC</p>
 
 
 ## 🛠️ Skills
