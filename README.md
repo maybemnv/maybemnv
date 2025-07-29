@@ -1,8 +1,8 @@
-<h1 align="left">Hey there I'm Manav :3</h1>
+<h1 align="left">Hey there I'm Manav</h1>
 
 ###
 
-<br clear="both">
+<h3> Conntect with me</h3>
 
 <div align="center">
   <a href="manavkauahal99@gmail.com" target="_blank">
