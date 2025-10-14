@@ -1,12 +1,17 @@
 <h1 align="left">Hey Manav Here</h1>
 
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00BFFF&width=435&lines=Machine+Learning+Researcher;AI+Builder+%7C+GenAI+Enthusiast)](https://git.io/typing-svg)
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">I'm an engineering student diving deep into Data Science but my brain’s wired for AI/ML, building tools, and chasing wild ideas.<br><br>Whether I’m prototyping a GenAI tool, tweaking a model just to see what breaks, or writing code <br>Other than Coding You would find me watching Motorsport racing or bumping MUSIC</p>
+<p align="left"> I’m a Machine Learning Researcher who thrives on exploring Data Science, building AI-driven tools, and experimenting with wild ideas. When I’m not training models or coding , you’ll probably find me watching motorsport or vibing to music.</p>
+
+###
+
+<h2 aligh="left">Socials</h2>
 
 ###
 
@@ -71,6 +76,11 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
 </div>
 
+### 
+🚀 What I’m Building  
+- AI agents for real-world automation  
+- Experiments in GenAI, model compression, and edge inference  
+- Data-driven systems that make ML feel alive  
 ###
 
 <div align="center">
