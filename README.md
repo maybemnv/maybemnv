@@ -13,7 +13,7 @@ I'm a Machine Learning Researcher who thrives on exploring Data Science, buildin
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Languages & Core
 
@@ -77,16 +77,10 @@ I'm a Machine Learning Researcher who thrives on exploring Data Science, buildin
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maybemnv&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maybemnv&theme=dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maybemnv&theme=dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maybemnv&theme=dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maybemnv&theme=dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maybemnv&theme=dark" />
 </div>
 
 ## Connect With Me
