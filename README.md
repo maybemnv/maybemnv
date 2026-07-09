@@ -2,9 +2,9 @@
 
 ## About Me
 
-Platform/Backend Engineer at **Analytics Depot** — building production AI analytics systems on FastAPI + LangGraph + Supabase. I write infrastructure for AI agents, not just prompts.
+Platform/Backend Engineer at **Analytics Depot** — building production AI analytics systems on FastAPI + LangGraph + Supabase.
 
-Currently: decomposing monolithic routers, hardening agent execution pipelines, and shipping features solo from schema to state machine. Between that: building **GrabPic**, solo cafe runs around Delhi, F1, and too much music. → [Portfolio](https://maybemnv.vercel.app)(If y'all care) :P
+Currently: decomposing monolithic routers, hardening agent execution pipelines, and shipping features solo from schema to state machine. Between that: building **GrabPic**→ [Portfolio](https://maybemnv.vercel.app)(If y'all care) :P
 
 ## Currently LARPMAXXING + TOKENMAXXING
 
