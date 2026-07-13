@@ -116,4 +116,4 @@ Some of the things I have worked on at **Analytics Depot**:
 
 ## Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&cover_image=true&theme=natemoo-red&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&redirect=true)
