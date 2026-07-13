@@ -1,18 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00BFFF,100:0d1117&height=300&section=header&text=Manav%20Kaushal&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=00BFFF&animation=twinkling&stroke=00BFFF&strokeWidth=1&desc=Platform%20Engineer%20%7C%20Agent%20Systems%20%7C%20AI%20Infra&descAlign=50&descAlignY=70&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00BFFF,100:0d1117&height=300&section=header&text=Manav%20Kaushal&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=00BFFF&animation=twinkling&stroke=00BFFF&strokeWidth=1&desc=AI%20Engineer%20%7C%20Agent%20Systems%20%7C%20AI%20Infra&descAlign=50&descAlignY=70&descSize=20" width="100%"/>
 
 ## About Me
-
-Platform/Backend Engineer at **Analytics Depot** — building production AI analytics systems on FastAPI + LangGraph + Supabase.
-
-Currently: decomposing monolithic routers, hardening agent execution pipelines, and shipping features solo from schema to state machine. Between that: building **GrabPic**→ [Portfolio](https://maybemnv.vercel.app)(If y'all care) :P
+I like AI and backend, I guess, and
+Currently working as an AI/Backend Engineer at Analytics Depot, where I contribute to analytics agents, report generation, backend APIs, reliability, and production debugging.
 
 ## Currently LARPMAXXING + TOKENMAXXING
 
-## Currently Exploring
+Shipping production AI systems, building side projects, reading too much documentation, and occasionally spending unreasonable amounts of tokens to fix something that was probably a missing environment variable.
+Agent reliability** — circuit breaker patterns, sandbox isolation, retry strategies for multi-step LLM pipelines
+## Production Work
 
-- **LangGraph internals** — execution tracing, node-level latency profiling, state graph visualization
-- **Edge-native patterns** — Turso/libSQL query design, Cloudflare Workers + Hono.js architecture
-- **Agent reliability** — circuit breaker patterns, sandbox isolation, retry strategies for multi-step LLM pipelines
+Some of the things I have worked on at **Analytics Depot**:
+
+- Built and improved backend services for production AI analytics workflows
+- Worked on persistent chart and report export pipelines
+- Added reliability fixes across Claude, OpenAI, and Gemini integrations
+- Tested authentication and authorization boundaries across admin and expert APIs
+- Debugged upload, streaming, caching, queue, and data-processing failures
+- Added regression tests around production bugs before shipping fixes
 
 ## Tech Stack
 
@@ -62,8 +67,6 @@ Currently: decomposing monolithic routers, hardening agent execution pipelines, 
 <img width="12" />
 <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"/>
 <img width="12" />
-<img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"/>
-<img width="12" />
 <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"/>
 
 ### Cloud & Infra
@@ -82,9 +85,9 @@ Currently: decomposing monolithic routers, hardening agent execution pipelines, 
 
 | Project | Stack | What it does |
 |---|---|---|
-| [GrabPic](https://github.com/maybemnv/grabpic) | Next.js · Cloudflare Workers · ArcFace · Modal.com | Facial recognition event photo distribution — selfie → gallery in <5s |
-| [DataLens AI](https://github.com/maybemnv/State_Budget_Analysis) | LangGraph · LangChain · Pandas · React | ReAct analytics agent over 100K+ government budget records |
-| [APS Fault Classifier](https://github.com/maybemnv/predictive-maintenance-for-air-pressure-system-aps) | XGBoost · SMOTE · Scikit-learn | Predictive maintenance on imbalanced sensor data — 91% precision |
+| [GrabPic](https://github.com/maybemnv/grabpic) | Next.js · Cloudflare Workers · Turso · ArcFace · Modal | Matches event attendees with their photos using a selfie, without manually searching through entire galleries |
+| [DataLens AI](https://github.com/maybemnv/State_Budget_Analysis) | LangGraph · LangChain · Pandas · React | Lets users explore and analyse 100K+ government budget records through natural-language questions |
+| [APS Fault Classifier](https://github.com/maybemnv/predictive-maintenance-for-air-pressure-system-aps) | XGBoost · SMOTE · Scikit-learn | Predicts air-pressure system failures from heavily imbalanced sensor data, reaching 91% precision |
 
 ## GitHub Stats
 
@@ -109,11 +112,8 @@ Currently: decomposing monolithic routers, hardening agent execution pipelines, 
   <a href="mailto:maybemnv@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
-  <a href="https://www.instagram.com/maybemnv/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"/>
-  </a>
 </div>
 
 ## Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&cover_image=true&theme=natemoo-red&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&redirect=true)
