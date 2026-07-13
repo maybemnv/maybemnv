@@ -7,17 +7,6 @@ Currently working as an AI/Backend Engineer at Analytics Depot, where I contribu
 ## Currently LARPMAXXING + TOKENMAXXING
 
 Shipping production AI systems, building side projects, reading too much documentation, and occasionally spending unreasonable amounts of tokens to fix something that was probably a missing environment variable.
-Agent reliability** — circuit breaker patterns, sandbox isolation, retry strategies for multi-step LLM pipelines
-## Production Work
-
-Some of the things I have worked on at **Analytics Depot**:
-
-- Built and improved backend services for production AI analytics workflows
-- Worked on persistent chart and report export pipelines
-- Added reliability fixes across Claude, OpenAI, and Gemini integrations
-- Tested authentication and authorization boundaries across admin and expert APIs
-- Debugged upload, streaming, caching, queue, and data-processing failures
-- Added regression tests around production bugs before shipping fixes
 
 ## Tech Stack
 
