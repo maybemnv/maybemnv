@@ -1,8 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00BFFF,100:0d1117&height=300&section=header&text=Manav%20Kaushal&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=00BFFF&animation=twinkling&stroke=00BFFF&strokeWidth=1&desc=AI%20Engineer%20%7C%20Agent%20Systems%20%7C%20AI%20Infra&descAlign=50&descAlignY=70&descSize=20" width="100%"/>
-
-## About Me
 I like AI and backend, I guess, and
-Currently working as Core Engineer at Analytics Depot, where I contribute to analytics agents, report generation, backend APIs, reliability, and production debugging.
+Currently working as Core Engineer at Analytics Depot, where I contribute to analytics agents, backend APIs, reliability, and production debugging.
 
 ## Currently LARPMAXXING + TOKENMAXXING
 
