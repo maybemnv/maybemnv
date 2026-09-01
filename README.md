@@ -75,9 +75,9 @@
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [GrabPic](https://github.com/maybemnv/grabpic) | Next.js, Cloudflare Workers, Turso, ArcFace, Modal | Matches event attendees with their photos using a selfie, without manually searching through entire galleries. |
-| [DataLens AI](https://github.com/maybemnv/State_Budget_Analysis) | LangGraph, LangChain, Pandas, React | Lets users explore and analyse 100K+ government budget records through natural-language questions. |
-| [APS Fault Classifier](https://github.com/maybemnv/predictive-maintenance-for-air-pressure-system-aps) | XGBoost, SMOTE, Scikit-learn | Predicts air-pressure system failures from heavily imbalanced sensor data, reaching 91% precision. |
+| [GrabPic](https://github.com/maybemnv/GrabPic) | Next.js, TypeScript, Cloudflare Workers, R2, Turso, Modal, FaceNet | Matches event attendees with their photos using a selfie and returns a personalized gallery in under five seconds. |
+| [Revenue Recovery Voice Agent](https://github.com/maybemnv/Revenue_Recovery_Voice_Agent) | FastAPI, OpenAI Realtime, Twilio, PostgreSQL, Redis, Celery, Next.js | Turns inbound home-service calls into replayable conversations with tool outcomes, safety paths, and post-call analysis. |
+| [DataLens AI](https://github.com/maybemnv/DataLens) | Next.js, FastAPI, LangChain, WebSockets, PostgreSQL, Redis, Pandas | Lets users upload structured data, ask questions in plain English, and receive analytical results with generated charts. |
 
 ## GitHub Stats
 
