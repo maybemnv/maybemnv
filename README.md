@@ -13,20 +13,12 @@
 </p>
 
 <p align="center">
-  <a href="#currently-cooking">cooking</a> ·
-  <a href="#things-i-have-learned-the-expensive-way">lessons</a> ·
-  <a href="#side-quests">side quests</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/maybemnv">GitHub</a> ·
   <a href="https://www.linkedin.com/in/maybmnv/">LinkedIn</a> ·
   <a href="https://x.com/maybemnv">X</a> ·
   <a href="https://discord.com/users/751306489574195230">Discord</a> ·
   <a href="mailto:maybemnv@gmail.com">Email</a>
 </p>
-
-## hi
 
 I build around models that are extremely confident about being wrong.
 
