@@ -99,6 +99,8 @@ Outside work I build whatever rabbit hole looks interesting enough.
 
 browser capture → canonical project state → bounded agent edits → verified render
 
+receipts: scenes backed by runnable checks, recapture scoped to what changed, evidence attached to every render
+
 <!-- demo slot: drop a gif at docs/replex-demo.gif, then uncomment
 <p align="center"><img src="docs/replex-demo.gif" alt="Replex demo" /></p>
 -->
@@ -131,6 +133,8 @@ event isolation, async processing, vector search, idempotent callbacks,
 deletion flows and enough infrastructure for what originally sounded like
 "just match faces lol"
 
+receipts: selfie to personal gallery in under 5 seconds, 512-d embeddings, event-isolated search
+
 <!-- demo slot: drop a gif at docs/grabpic-demo.gif, then uncomment
 <p align="center"><img src="docs/grabpic-demo.gif" alt="GrabPic demo" /></p>
 -->
@@ -162,6 +166,8 @@ deletion flows and enough infrastructure for what originally sounded like
 Realtime voice agent with tool execution, replayable conversations,
 human controls and post-call analysis.
 
+receipts: every call persisted — transcripts, tool outcomes, safety-path triggers — and replayable after the fact
+
 <!-- demo slot: drop a gif at docs/revenue-recovery-demo.gif, then uncomment
 <p align="center"><img src="docs/revenue-recovery-demo.gif" alt="Revenue Recovery demo" /></p>
 -->
@@ -192,16 +198,14 @@ human controls and post-call analysis.
 - made deepfakes somebody else's problem ([Agentic-DeepFake-Classifier](https://github.com/maybemnv/Agentic-DeepFake-Classifier))
 - built computer-vision traffic systems ([ANPR-and-ATCC-for-Smart-Traffic-Management](https://github.com/maybemnv/ANPR-and-ATCC-for-Smart-Traffic-Management))
 - accidentally built several RAG systems ([Permission_Aware_Internal_Knowledge_Assistant](https://github.com/maybemnv/Permission_Aware_Internal_Knowledge_Assistant))
-- currently trying to automate demo videos because apparently opening Kdenlive was too easy ([Replex](https://github.com/maybemnv/Replex))
+- taught reinforcement learning to care about derivatives because apparently finance wasn't complicated enough ([Derivative_Hedging_Using_RL](https://github.com/maybemnv/Derivative_Hedging_Using_RL))
 
-<details>
-<summary><b>field notes</b></summary>
+## operating conditions
 
-- the SOC agent taught me that detection is easy, trustworthy alerting is the whole game
-- traffic cameras taught me that lighting conditions are a deployment strategy
-- RAG taught me that permissions are a retrieval problem, not a UI problem
-
-</details>
+- day job: Core Engineer @ Analytics Depot, building Replex
+- after hours: side quests above, quality varies with curiosity
+- best way to reach me: email, linked up top
+- currently not: opening Kdenlive
 
 ## GitHub Stats
 
