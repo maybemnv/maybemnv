@@ -203,12 +203,13 @@ human controls and post-call analysis.
 
 </details>
 
-<details>
-<summary>usual tools</summary>
+## GitHub Stats
 
-Python · TypeScript · FastAPI · PostgreSQL · Redis · Celery · LangChain / LangGraph · OpenAI / Claude / Gemini · Docker · Cloudflare · Modal · Next.js
-
-</details>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maybemnv&theme=dark" alt="GitHub profile details" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maybemnv&theme=dark" alt="Most used programming languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maybemnv&theme=dark" alt="GitHub statistics" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maybemnv/maybemnv/output/github-snake-dark.svg" />
