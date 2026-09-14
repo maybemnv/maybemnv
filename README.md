@@ -26,7 +26,7 @@ Most of my time goes into AI agents, backend systems, evals, retrieval,
 data pipelines, async workers, and figuring out why something that worked
 perfectly five minutes ago has suddenly developed free will.
 
-Currently cooking at Analytics Depot.
+Currently Tokenmaxxing @Analytics Depot.
 Outside work I build whatever rabbit hole looks interesting enough.
 
 ## Main Stack
