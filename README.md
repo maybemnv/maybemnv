@@ -211,14 +211,13 @@ human controls and post-call analysis.
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maybemnv&theme=dark" alt="GitHub statistics" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maybemnv/maybemnv/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maybemnv/maybemnv/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maybemnv/maybemnv/output/github-snake.svg" />
-</picture>
-
+---
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tv6e00m3bg5i32zlo1tmla7bu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark" alt="Spotify now playing" />
   </a>
+</p>
+
+<p align="center">
+  <sub><a href="#">back to top</a></sub>
 </p>
