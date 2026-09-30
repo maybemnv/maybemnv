@@ -150,36 +150,6 @@ receipts: selfie to personal gallery in under 5 seconds, 512-d embeddings, event
 
 ---
 
-### [Revenue Recovery](https://github.com/maybemnv/Revenue_Recovery_Voice_Agent) `status: stable`
-
-> giving an LLM access to a phone line seemed like a perfectly reasonable idea
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-</p>
-
-Realtime voice agent with tool execution, replayable conversations,
-human controls and post-call analysis.
-
-receipts: every call persisted — transcripts, tool outcomes, safety-path triggers — and replayable after the fact
-
-<!-- demo slot: drop a gif at docs/revenue-recovery-demo.gif, then uncomment
-<p align="center"><img src="docs/revenue-recovery-demo.gif" alt="Revenue Recovery demo" /></p>
--->
-
-<details>
-<summary><b>what's actually in there</b></summary>
-
-- inbound home-service calls with live tool outcomes, not a voicemail with extra steps
-- every conversation replayable: transcripts, tool calls, safety paths
-- human override controls plus post-call analysis for what the agent confidently got wrong
-
-</details>
 
 ## things i have learned the expensive way
 
