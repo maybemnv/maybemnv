@@ -1,0 +1,245 @@
+%------------------------
+% Manav Kaushal
+% AI Systems Engineer | LLM Agents, Evaluation & Backend Reliability
+%------------------------
+
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+\ifdefined\pdfgentounicode % pdfTeX only; XeTeX (tectonic) is Unicode-native
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\fi
+\usepackage[T1]{fontenc}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Page geometry
+\addtolength{\oddsidemargin}{-0.58in}
+\addtolength{\evensidemargin}{-0.58in}
+\addtolength{\textwidth}{1.16in}
+\addtolength{\topmargin}{-0.72in}
+\addtolength{\textheight}{1.44in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\setlength{\footskip}{5pt}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule\vspace{-5pt}]
+
+% Custom commands
+\newcommand{\cvitem}[1]{
+  \item\small{#1\vspace{-2pt}}
+}
+
+\newcommand{\cvheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \small #2 \\
+      \small #3 & \small #4 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\cvheadingstart}{
+  \begin{itemize}[leftmargin=0in, label={}]
+}
+
+\newcommand{\cvheadingend}{
+  \end{itemize}
+}
+
+\newcommand{\cvitemstart}{
+  \begin{itemize}[leftmargin=0.17in, label=\textbullet, itemsep=-1pt]\justifying
+}
+
+\newcommand{\cvitemend}{
+  \end{itemize}\vspace{-4pt}
+}
+
+\begin{document}
+
+%---------- HEADER ----------
+\begin{center}
+  {\LARGE\scshape Manav Kaushal} \\
+
+  \vspace{2pt}
+  \small AI Systems Engineer --- LLM agents, evaluation, and backend reliability \\
+
+  \vspace{3pt}
+  \href{mailto:maybemnv@gmail.com}{maybemnv@gmail.com} $\diamond$
+  \href{https://github.com/maybemnv}{github.com/maybemnv} $\diamond$
+  \href{https://www.linkedin.com/in/maybmnv/}{linkedin.com/in/maybmnv} $\diamond$
+  \href{https://maybemnv.vercel.app/}{maybemnv.vercel.app}
+\end{center}
+
+%---------- EXPERIENCE ----------
+\section{Experience}
+
+\cvheadingstart
+
+  \cvheading
+    {Core Engineer}{May 2026 -- Present}
+    {Analytics Depot --- AI analytics platform}{Remote}
+
+  \cvitemstart
+
+    \cvitem{
+      Rebuilt the dataset ingestion pipeline with async parallelism, Redis caching, lazy loading, and content-hash LLM caching, cutting \textbf{50K-row upload time from \textasciitilde{}124s (timing out) to 39.2s} and database insertion from \textbf{19.7s to 1.1s}; fixed a P0 bug that silently dropped file-attached messages.
+    }
+
+    \cvitem{
+      Rebuilt chart-accuracy evaluation after finding the existing scorer rated a server that drew \emph{no} charts at \textbf{78.1\%} (now 0\%); froze a 78-case hash-verified acceptance suite and bound charts to the exact computed result, failing closed instead of truncating, re-sorting, or substituting data.
+    }
+
+    \cvitem{
+      Built agent observability and evaluation infrastructure: tenant-scoped execution tracing, billed-vs-attributable cost accounting, a provider circuit breaker, and a \textbf{blocking cost-regression CI gate}; raised seeded-mutation detection from 7/9 to \textbf{9/9 with 0\% false failures}.
+    }
+
+    \cvitem{
+      Shipped \textbf{Saved Metrics}, letting users define a business calculation once and reuse it in agent and NL-to-SQL answers by injecting the saved SQL verbatim as a CTE; delivered 5 rate-limited APIs with zero regressions across 869 existing tests.
+    }
+
+  \cvitemend
+
+  \cvheading
+    {Machine Learning Engineer (promoted from ML Intern)}{Apr 2025 -- Nov 2025}
+    {Global Village Foundation (GVF)}{New Delhi, India}
+
+  \cvitemstart
+
+    \cvitem{
+      Built a legal-document \textbf{RAG system} with Cohere embeddings, FAISS retrieval, and Gemini page-cited summaries, cutting review of a 100-page filing from \textbf{\textasciitilde{}60 minutes to under 3 minutes}.
+    }
+
+    \cvitem{
+      Owned the full application: a FastAPI backend with async PDF ingestion, SQLAlchemy persistence, and Supabase JWT auth, plus a React/TypeScript client with live processing states, serving multi-user document and summary history.
+    }
+
+  \cvitemend
+
+\cvheadingend
+
+%---------- PROJECTS ----------
+\section{Projects}
+
+\cvheadingstart
+
+  \cvheading
+    {Replex --- Agentic Product-Demo Video Compiler}
+    {\href{https://github.com/maybemnv/Replex}{github.com/maybemnv/Replex}}
+    {\textit{TypeScript $\cdot$ Playwright $\cdot$ FFmpeg $\cdot$ Gemini $\cdot$ Zod $\cdot$ Vitest}}{\small Sep 2026 -- Present}
+
+  \cvitemstart
+
+    \cvitem{
+      Compiles an approved Playwright flow and a feature brief into a reproducible product-demo video; when the product changes, it \textbf{re-captures only the affected scene} instead of re-recording the whole video.
+    }
+
+    \cvitem{
+      Constrained the AI editor to \textbf{8 typed editing tools} applied through one validated, pure reducer, so the model never writes shell commands, FFmpeg filtergraphs, or project state directly.
+    }
+
+    \cvitem{
+      Verifies every render (checkpoints, blank/frozen frames, duration, 1080p/30fps decode) and hash-proves that a recapture leaves unrelated scenes untouched; tested against 3 adversarial browser apps.
+    }
+
+  \cvitemend
+
+  \cvheading
+    {GrabPic --- Selfie-Based Event Photo Finder}
+    {\href{https://github.com/maybemnv/GrabPic}{github.com/maybemnv/GrabPic}}
+    {\textit{Next.js $\cdot$ Cloudflare Workers $\cdot$ Hono $\cdot$ R2 $\cdot$ Modal (GPU) $\cdot$ FaceNet $\cdot$ Turso}}{}
+
+  \cvitemstart
+
+    \cvitem{
+      Lets event attendees find every photo of themselves from a single selfie, returning matches in \textbf{under 5 seconds} instead of scrolling a full event gallery.
+    }
+
+    \cvitem{
+      Designed a serverless pipeline: Workers issue signed uploads to R2, Modal GPUs generate 512-dimensional FaceNet embeddings, and per-event vector search keeps each event's faces isolated.
+    }
+
+    \cvitem{
+      Secured organizer access and protected asset delivery, with automated cleanup of expired event data.
+    }
+
+  \cvitemend
+
+\cvheadingend
+
+%---------- TECHNICAL SKILLS ----------
+\section{Technical Skills}
+
+\cvitemstart
+
+  \cvitem{
+    \textbf{AI Systems \& Evaluation:}
+    LangGraph, LangChain, RAG, agent tracing and evaluation, OpenAI / Claude / Gemini APIs, FAISS, PyTorch, Scikit-learn
+  }
+
+  \cvitem{
+    \textbf{Backend \& Data:}
+    Python, SQL, FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery, async I/O, Pandas
+  }
+
+  \cvitem{
+    \textbf{Infrastructure:}
+    Docker, GitHub Actions, Cloudflare Workers, R2, Modal, Linux
+  }
+
+  \cvitem{
+    \textbf{Frontend:}
+    TypeScript, React, Next.js
+  }
+
+\cvitemend
+
+%---------- EDUCATION ----------
+\section{Education}
+
+\cvheadingstart
+
+  \cvheading
+    {Master of Computer Applications (MCA), Hybrid --- IIT Patna}{2027 -- 2029 (incoming)}
+    {In partnership with IIIT Ranchi}{}
+
+  \cvheading
+    {Bachelor of Computer Applications (BCA), Data Science}{2022 -- 2025}
+    {Jagannath Institute of Management and Science, Delhi}{CGPA: 7.41 / 10}
+
+\cvheadingend
+
+%---------- ACHIEVEMENTS ----------
+\section{Achievements}
+
+\cvitemstart
+
+  \cvitem{
+    Won \textbf{3 first-place finishes} across 10+ national-level AI/ML and systems hackathons; invited back to judge and mentor teams at \textbf{5+ hackathons}.
+  }
+
+  \cvitem{
+    Mentored \textbf{100+ students} on Python, Git, system design, and AI-assisted development with Codex and Claude Code.
+  }
+
+\cvitemend
+
+\end{document}
